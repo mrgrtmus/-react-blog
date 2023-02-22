@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa quae commodi id dignissimos reprehenderit, hic maiores sed laudantium saepe reiciendis eaque temporibus, vero rerum, eveniet soluta delectus mollitia porro magni. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa quae commodi id dignissimos reprehenderit, hic maiores sed laudantium saepe reiciendis eaque temporibus, vero rerum, eveniet soluta delectus mollitia porro magni. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa quae commodi id dignissimos reprehenderit, hic maiores sed laudantium saepe reiciendis eaque temporibus, vero rerum, eveniet soluta delectus mollitia porro magni.",
+      "topic": "travel",
+      "id": 2
+    },
+    {
+      "title": "My Second Blog ",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa quae commodi id dignissimos reprehenderit, hic maiores sed laudantium saepe reiciendis eaque temporibus, vero rerum, eveniet soluta delectus mollitia porro magni. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa quae commodi id dignissimos reprehenderit, hic maiores sed laudantium saepe reiciendis eaque temporibus, vero rerum, eveniet soluta delectus mollitia porro magni. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa quae commodi id dignissimos reprehenderit, hic maiores sed laudantium saepe reiciendis eaque temporibus, vero rerum, eveniet soluta delectus mollitia porro magni.",
+      "topic": "beauty",
+      "id": 3
+    }
+  ]
+}
